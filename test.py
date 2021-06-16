@@ -1,2 +1,2 @@
 x="12345"
-print (x)
+print (f"This is the value of {x})
